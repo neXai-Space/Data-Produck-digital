@@ -13,15 +13,19 @@ const PRODUCTS = [
   },
   {
     id: "3", // <- ID-nya "2"
-    name: "Capcut Prem",
+    name: "Capcut Prem by yansz",
     price: 25000,
     category: "Akun Premium",
     originalPrice: 125000,
     category: "Akun Premium",
     icon: "🗂️",
-    description: "Akun Capcut Premium privat, garansi 30 hari, eksport video sampai HD 2K.",
+    description: "Akun Capcut Premium privat, garansi 30 hari, eksport video sampai HD 2K.
+    harga :
+    25rb/bulan
+    10rb/minggu",
     rating: 4.5,
-    sold: 130,
+    sold: 50,
+    sellerWA: "6282183882260"
   },
   {
     id: "1", // <- ID-nya "2"
