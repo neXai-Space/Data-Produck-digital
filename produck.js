@@ -20,9 +20,7 @@ const PRODUCTS = [
     category: "Akun Premium",
     icon: "🗂️",
     description: "Akun Capcut Premium privat, garansi 30 hari, eksport video sampai HD 2K.
-    harga :
-    25rb/bulan
-    10rb/minggu",
+    harga : 25rb/bulan, 10rb/minggu",
     rating: 4.5,
     sold: 50,
     sellerWA: "6282183882260"
