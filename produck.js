@@ -1,6 +1,6 @@
 const PRODUCTS = [
   {
-    id: "2", // <- ID-nya "1"
+    id: "6", // <- ID-nya "1"
     name: "Netflix Premium",
     price: 45000,
     category: "Akun Premium",
