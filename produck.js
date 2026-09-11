@@ -10,5 +10,17 @@ const PRODUCTS = [
     name: "Alight Motion Prem",
     price: 98000,
     category: "Voucher"
+  },
+  {
+    id: "1", // <- ID-nya "2"
+    name: "Am Prem by PitNewbie",
+    price: 5000,
+    category: "Akun Premium"
+  },
+  {
+    id: "1", // <- ID-nya "2"
+    name: "Am Prem by RinnStore",
+    price: 10000,
+    category: "Akun Premium"
   }
 ];
