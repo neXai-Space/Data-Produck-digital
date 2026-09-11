@@ -21,7 +21,7 @@ const PRODUCTS = [
     icon: "🗂️",
     description: "Akun Capcut Premium privat, garansi 30 hari, eksport video sampai HD 2K.",
     rating: 4.5,
-    sold: 180,
+    sold: 130,
   },
   {
     id: "1", // <- ID-nya "2"
