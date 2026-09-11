@@ -34,6 +34,7 @@ const PRODUCTS = [
     description: "Akun alight motoon Premium privat, import preset hingga 200mb+, bisa dipakai di 4 perangkat sekaligus.",
     rating: 5.2,
     sold: 40,
+    sellerWA: "6285727658632"
   },
   {
     id: "1", // <- ID-nya "2"
