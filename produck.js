@@ -6,10 +6,10 @@ const PRODUCTS = [
     category: "Akun Premium"
   },
   {
-    id: "1", // <- ID-nya "2"
-    name: "Am Prem",
-    price: 1000,
-    category: "Voucher"
+    id: "3", // <- ID-nya "2"
+    name: "Capcut Prem",
+    price: 25000,
+    category: "Akun Premium"
   },
   {
     id: "1", // <- ID-nya "2"
