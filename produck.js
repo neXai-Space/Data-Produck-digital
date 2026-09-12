@@ -57,5 +57,41 @@ const PRODUCTS = [
     rating: 4.7,
     sold: 5,
     sellerWA: "62895402678327"
-}
+},
+{
+    id: "6",
+    icon: "0003",
+    name: "Capcut Pro by RennStore",
+    price: 8000,
+    category: "Akun Premium",
+    originalPrice: 15000,
+    description: "Capcut Pro Private. 8k/minggu || 30k/bulan. Amanah & garansi 3 bulan. Tanya stock dulu sebelum transaksi ya",
+    rating: 5.0,
+    sold: 32,
+    sellerWA: "6283897165011"
+  },
+  {
+    id: "7",
+    icon: "0004",
+    name: "Wink Premium by RennStore",
+    price: 10000,
+    category: "Akun Premium",
+    originalPrice: 20000,
+    description: "Wink Premium Private. 10k/minggu. Proses cepat & admin fast respon. Tanya stock dulu sebelum transaksi ya",
+    rating: 5.0,
+    sold: 28,
+    sellerWA: "6283897165011"
+  },
+  {
+    id: "8",
+    icon: "0002",
+    name: "Spotify Famplan by RennStore",
+    price: 30000,
+    category: "Akun Premium",
+    originalPrice: 50000,
+    description: "Spotify Famplan. 30k/1 bulan. Tanya stock dulu sebelum transaksi ya",
+    rating: 5.0,
+    sold: 45,
+    sellerWA: "6283897165011"
+  }
 ];
