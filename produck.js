@@ -1,6 +1,7 @@
 const PRODUCTS = [
   {
-    id: "6", // <- ID-nya "1"
+    id: "2", // <- ID-nya "1
+    icon: "0006.jpg",
     name: "Netflix Premium",
     price: 45000,
     category: "Akun Premium",
@@ -13,6 +14,7 @@ const PRODUCTS = [
   },
   {
     id: "3", // <- ID-nya "2"
+    icon: "0003.jpg",
     name: "Capcut Prem by yansz",
     price: 25000,
     category: "Akun Premium",
@@ -26,6 +28,7 @@ const PRODUCTS = [
   },
   {
     id: "1", // <- ID-nya "2"
+    icon: "0001.jpg",
     name: "Am Prem by PitNewbie",
     price: 5000,
     category: "Akun Premium",
@@ -38,7 +41,8 @@ const PRODUCTS = [
     sellerWA: "6285727658632"
   },
   {
-    id: "1", // <- ID-nya "2"
+    id: "4", // <- ID-nya "2"
+    icon: "0001.jpg",
     name: "Am Prem by RinnStore",
     price: 10000,
     category: "Akun Premium",
