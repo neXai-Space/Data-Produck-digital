@@ -55,5 +55,6 @@ const PRODUCTS = [
     description: "🤖 𝐑𝐄𝐗𝐙𝐘𝐀𝐈 𝐕𝟐.𝟕 𝐁𝐎𝐓 𝐖𝐀 - 50K/BULAN\nFitur Lengkap 2000+ Command...",
     rating: 4.7,
     sold: 5,
+    sellerWA: "62895402678327"
 }
 ];
