@@ -101,7 +101,6 @@ const PRODUCTS = [
     price: 5000,
     category: "Akun Premium",
     originalPrice: 19000000,
-    category: "apk premium",
     description: "menyediakan akun alight motion durasi 1th, akun bisa dari admin ataupun akun anda, yang pastinya dijamin 100% amanah",
     rating: 4.2,
     sold: 25,
