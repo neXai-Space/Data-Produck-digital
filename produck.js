@@ -28,7 +28,7 @@ const PRODUCTS = [
     name: "Am Prem by PitNewbie",
     price: 5000,
     category: "Akun Premium",
-    originalPrice: 120000,
+    originalPrice: 7000,
     description: "Akun alight motoon Premium privat, import preset hingga 200mb+, bisa dipakai di 4 perangkat sekaligus.",
     rating: 5.2,
     sold: 40,
@@ -37,13 +37,14 @@ const PRODUCTS = [
   {
     id: "4", // <- ID-nya "2"
     icon: "0001",
-    name: "Am Prem by RinnStore",
-    price: 10000,
+    name: "Am Prem by RennStore",
+    price: 7000,
     category: "Akun Premium",
-    originalPrice: 120000,
+    originalPrice: 10000,
     description: "Akun alight motoon Prem, udh itu aja.",
     rating: 5.0,
     sold: 50,
+    sellerWA: "6283897165011"
   },
   {
     id: "5",
