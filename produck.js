@@ -117,5 +117,17 @@ const PRODUCTS = [
     rating: 4.3,
     sold: 15,
     sellerWA: "62895402678327"
+},
+  {
+    id: "11",
+    icon: "0005",
+    name: "Canva prem by yansz",
+    price: 10000,
+    originalPrice: 15000,
+    category: "Akun Premium",
+    description: "Canva 10k/bukan, murah cikk.. gasss beli.",
+    rating: 4.7,
+    sold: 18,
+    sellerWA: "6282183882260"
 }
 ];
