@@ -6,7 +6,6 @@ const PRODUCTS = [
     price: 45000,
     category: "Akun Premium",
     originalPrice: 65000,
-    category: "Akun Premium",
     description: "Akun Netflix Premium privat, garansi 30 hari, kualitas Ultra HD 4K, bisa dipakai di 4 perangkat sekaligus.",
     rating: 4.9,
     sold: 180,
@@ -18,7 +17,6 @@ const PRODUCTS = [
     price: 25000,
     category: "Akun Premium",
     originalPrice: 125000,
-    category: "Akun Premium",
     description: "Akun Capcut Premium privat, garansi 30 hari, eksport video sampai HD 2K, harga : 25rb/bulan, 10rb/minggu",
     rating: 4.5,
     sold: 50,
@@ -31,7 +29,6 @@ const PRODUCTS = [
     price: 5000,
     category: "Akun Premium",
     originalPrice: 120000,
-    category: "Akun Premium",
     description: "Akun alight motoon Premium privat, import preset hingga 200mb+, bisa dipakai di 4 perangkat sekaligus.",
     rating: 5.2,
     sold: 40,
@@ -44,9 +41,19 @@ const PRODUCTS = [
     price: 10000,
     category: "Akun Premium",
     originalPrice: 120000,
-    category: "Akun Premium",
     description: "Akun alight motoon Prem, udh itu aja.",
     rating: 5.0,
     sold: 50,
-  }
+  },
+  {
+    id: "5",
+    icon: "0007"
+    name: "Sewa bot by Rexa",
+    price: 50000,
+    originalPrice: 75000,
+    category: "bot",
+    description: "🤖 𝐑𝐄𝐗𝐙𝐘𝐀𝐈 𝐕𝟐.𝟕 𝐁𝐎𝐓 𝐖𝐀 - 50K/BULAN\nFitur Lengkap 2000+ Command..."
+    rating: 4.7,
+    sold: 5,
+}
 ];
