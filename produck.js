@@ -47,7 +47,7 @@ const PRODUCTS = [
   },
   {
     id: "5",
-    icon: "0007"
+    icon: "0007",
     name: "Sewa bot by Rexa",
     price: 50000,
     originalPrice: 75000,
