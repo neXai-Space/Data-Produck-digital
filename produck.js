@@ -93,5 +93,30 @@ const PRODUCTS = [
     rating: 5.0,
     sold: 45,
     sellerWA: "6283897165011"
-  }
+  },
+  {
+    id: "9",
+    icon: "0001",
+    name: "Am Prem by fanzzStore",
+    price: 5.000,
+    category: "Akun Premium",
+    originalPrice: 19.000.000,
+    category: "apk premium",
+    description: "menyediakan akun alight motion durasi 1th, akun bisa dari admin ataupun akun anda, yang pastinya dijamin 100% amanah",
+    rating: 4.2,
+    sold: 25,
+    sellerWA: "6285658636168"
+  },
+  {
+    id: "10",
+    icon: "0007",
+    name: "Jual Nokos Malay & Iraq",
+    price: 8000,
+    originalPrice: 12000,
+    category: "nokos",
+    description: "📱 JUAL NOKOS 8K\n\nNegara: Malaysia +60 | Iraq +964\nHarga Normal: 12K\n\nBersih | Siap Verif | Garansi 1 Hari\n\nOrder: Chat Owner \nBayar: Dana/Qris",
+    rating: 4.3,
+    sold: 15,
+    sellerWA: "62895402678327"
+}
 ];
