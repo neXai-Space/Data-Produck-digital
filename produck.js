@@ -50,8 +50,8 @@ const PRODUCTS = [
     icon: "0007",
     name: "Sewa bot by Rexa",
     price: 50000,
-    originalPrice: 75000,
     category: "bot",
+    originalPrice: 75000,
     description: "🤖 𝐑𝐄𝐗𝐙𝐘𝐀𝐈 𝐕𝟐.𝟕 𝐁𝐎𝐓 𝐖𝐀 - 50K/BULAN\nFitur Lengkap 2000+ Command..."
     rating: 4.7,
     sold: 5,
