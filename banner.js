@@ -1,5 +1,10 @@
 const BANNERS = [
   {
+    tagColor: "#f43f5e", // Warna biru
+    title: "Info Update ToLine",
+    desc: "<a href='https://www.toline.starpit.my.id/' target='_blank' class='banner-link'>Klik disini</a> untuk mengUpdate Aplikasi ToLine, kali ga salin aja nihh, https://www.toline.starpit.my.id/#download, gass update le, biar aplikasinya lancar + udh fix bug."
+  },
+  {
     tagColor: "", // Kosongkan agar pakai warna bawaan (kuning/emas)
     title: "Produk digital, ToLine",
     desc: "Layanan wa, proses cepat, aman dan terpercaya."
