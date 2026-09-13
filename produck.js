@@ -129,5 +129,17 @@ const PRODUCTS = [
     rating: 4.7,
     sold: 18,
     sellerWA: "6282183882260"
+},
+{
+    id: "12",
+    icon: "0011",
+    name: "web portofolio by PitNewbie",
+    price: 5000,
+    originalPrice: 10000,
+    category: "coding",
+    description: "jasa bikin web portofolio, bisa req... hasil? .html, sudah siap deploy, tanpa seting², gas aja langsung order😋.",
+    rating: 4.7,
+    sold: 1,
+    sellerWA: "6285727658632"
 }
 ];
